@@ -1,4 +1,4 @@
 # taleem-demo
 This is my first repository
 <br>
-Author - Muhammad Zain Siddiqui
+Author - Muhammad Zain Siddiqui (Scientist)
